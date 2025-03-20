@@ -1,0 +1,6 @@
+请在此目录放置游戏ROM文件：
+- mario.nes
+- contra.nes
+- tank.nes
+
+注意：请确保您有权使用这些ROM文件。 

@@ -1,0 +1,4 @@
+请在此目录放置游戏封面图片：
+- mario.jpg
+- contra.jpg
+- tank.jpg 
